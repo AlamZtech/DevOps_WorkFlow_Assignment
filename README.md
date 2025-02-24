@@ -8,5 +8,4 @@ This project is designed to provide hands-on experience with Git workflow.
    ```bash
    git clone https://github.com/yourusername/DevOps_WorkFlow_Assignment.git
 
-Navigate to the project directory:
-cd DevOps_WorkFlow_Assignment
+
