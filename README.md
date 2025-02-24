@@ -7,3 +7,6 @@ This project is designed to provide hands-on experience with Git workflow.
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/DevOps_WorkFlow_Assignment.git
+
+Navigate to the project directory:
+cd DevOps_WorkFlow_Assignment
